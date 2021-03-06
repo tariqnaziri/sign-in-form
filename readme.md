@@ -1,12 +1,13 @@
-## Form Validator (Intro Project)
+## Sign-in Form
 
-Simple client side form validation. Check requird, length, email and password match
+Client side form validation. Checks for user name, password, and email to pass specified requirements.
 
-## Project Specifications
+![Screenshot of Sign-in form](https://i.imgur.com/eCprMXi.png)
 
-- Create form UI
-- Show error messages under specific inputs
-- checkRequired() to accept array of inputs
-- checkLength() to check min and max length
-- checkEmail() to validate email with regex
-- checkPasswordsMatch() to match confirm password
+**Link to project:** https://tariqnaziri.github.io/sign-in-form/
+
+## How it's made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+Shows error messages under specific inputs from four functions: checkRequired() to accept array of inputs, checkLength() to check min and max length, checkEmail() to validate email with regex, and checkPasswordsMatch() to match confirm password.
